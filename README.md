@@ -1,5 +1,5 @@
 # Flashcard-o-matic
-This is a Quizlet style app that allows users to create, edit, and study flash cards and card decks
+This is a Quizlet style app that allows users to create, edit, and study flash cards and card decks.
 
 ## Home Page
 
@@ -22,7 +22,7 @@ Gives a description of the deck and a veiw of all its cards. These cards can the
 
 ## Study page 
 
-Allows users to shuffle their cards and flip between the subject and answer sides of their cards.
+Allows users to shuffle their cards and flip between the subject or answer sides of their cards.
 
 ![image](https://user-images.githubusercontent.com/57878265/187771599-9bc59f98-5ea1-45ba-b4fc-08540f7391ce.png)
 
