@@ -32,7 +32,7 @@ Allows users to shuffle their cards and flip between the subject and answer side
 ## Edit Card
 ![image](https://user-images.githubusercontent.com/57878265/187772372-99b22e65-59f6-4220-9b25-e56d6a88d3fe.png)
 
-## Technologies
+## Technology
 ### Built with:
 - created with create-react-app
 - React 
